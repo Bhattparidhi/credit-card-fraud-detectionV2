@@ -1,4 +1,4 @@
-# 💳 Advanced Fraud Detection System v2.0
+# 💳 Credit Crad Fraud Detection v2.0
 
 A state-of-the-art machine learning-based fraud detection system with a modern, interactive web interface. Built with Streamlit and powered by Random Forest classification.
 
